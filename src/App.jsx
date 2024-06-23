@@ -1,5 +1,7 @@
+import ToDo from "./ToDo.jsx";
+
 const App = () => {
-    return <div className="text-red-500">App</div>;
+    return <ToDo />;
 };
 
 export default App;
